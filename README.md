@@ -1,3 +1,3 @@
 # hello-world
-This is my first repository
-I love software development
+This is my first repository,
+ I love software development
